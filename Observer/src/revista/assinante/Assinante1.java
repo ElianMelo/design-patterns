@@ -1,3 +1,9 @@
+/*
+Nome do autor: Elian Melo Morais
+Data de criação do arquivo: 13/04/2020
+Resumo: Classe Observer que observa uma revista
+Informações adicionais: https://www.devmedia.com.br/padrao-de-projeto-observer-em-java/26163
+*/
 package revista.assinante;
 
 import java.util.Observable;

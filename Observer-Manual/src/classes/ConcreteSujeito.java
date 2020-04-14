@@ -1,3 +1,9 @@
+/*
+Nome do autor: Elian Melo Morais
+Data de criação do arquivo: 14/04/2020
+Resumo: Classe que implementa os metodos de um Subject
+Informações adicionais: https://www.devmedia.com.br/padrao-de-projeto-observer-em-java/26163
+*/
 package classes;
 
 import java.util.ArrayList;

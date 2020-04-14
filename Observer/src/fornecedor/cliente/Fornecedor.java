@@ -1,3 +1,9 @@
+/*
+Nome do autor: Elian Melo Morais
+Data de criação do arquivo: 13/04/2020
+Resumo: Cria uma classe concreta que extende o Observable(Subject) e possui comportamento de um Fornecedor
+Informações adicionais: https://www.devmedia.com.br/padrao-de-projeto-observer-em-java/26163
+*/
 package fornecedor.cliente;
 
 import java.util.Observable;
